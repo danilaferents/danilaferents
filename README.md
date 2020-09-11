@@ -4,6 +4,7 @@
 # Things i had experience with
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+</p>
 # Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=danilaferents alt=danila.ferents /> </p>
 
