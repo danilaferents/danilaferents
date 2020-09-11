@@ -4,6 +4,9 @@
 # Things i had experience with
 <p>
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=git&logoColor=white" />
 </p>
 # Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=danilaferents alt=danila.ferents /> </p>
