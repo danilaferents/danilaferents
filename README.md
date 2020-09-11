@@ -8,10 +8,10 @@
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="Xcode" src="https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Bitbucket" src="https://img.shields.io/badge/-Git-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
    <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&logoColor=white" />
-  <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C" src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white" />
    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white" />
 </p>
 # Some of my Github Stats
