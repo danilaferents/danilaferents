@@ -2,7 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-danila.ferentz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:danila.ferentz@gmail.com)](mailto:danila.ferentz@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-danilaferents-grey?style=flat&logo=github&logoColor=white&link=https://github.com/danilaferents/)](https://www.github.com/danilaferents/) 
 [![Telegram Badge](https://img.shields.io/badge/-dangryman-2CA5E0?style=flat&logo=telegram&logoColor=white&link=https://t.me/dangryman)](https://t.me/dangryman) 
-![](https://img.shields.io/badge/-vk-grey?style=flat&logo=vk&logoColor=white&link=https://vk.com/d.ferents)
+![](https://img.shields.io/badge/-vk-grey?style=flat&logo=vk&logoColor=white&link=https://vk.com/d.ferents)(https://vk.com/d.ferents)
 <p>Welcome to my page! </br> I'm Danila,  developer from <img src="https://i1.wp.com/www.youngpioneertours.com/wp-content/uploads/2020/03/Russian-Flag.jpg?resize=1536%2C960&ssl=1" width="17"/> <b>St. Petersburg, Russia</b>. </p>
 # Things i had experience with
 <p>
